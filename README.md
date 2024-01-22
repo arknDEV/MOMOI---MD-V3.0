@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/16ae6c6239199d61e16d8.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/9df8a483fbe4c8beff9c1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
