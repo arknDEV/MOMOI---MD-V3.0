@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/9df8a483fbe4c8beff9c1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
@@ -22,6 +22,13 @@
 -https://wa.me/6288802101736
 ---------
 ---------
+
+### Bot Momoi
+
+
+[![WhatsApp]()](https://wa.me/6288802101727) 
+
+***
 
 ### a little about this bot
 - ✔️ | Simple
