@@ -43,3 +43,8 @@
 - ✔️ | Tools
 - ✔️ | AI
 ---------
+
+## THANKS TO
+[Whiskeysockets](https://github.com/whiskeysockets)
+----|----|----|----|----|----|----
+Owner of Baileys | 
