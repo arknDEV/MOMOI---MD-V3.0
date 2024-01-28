@@ -47,5 +47,5 @@
 # Thanks to
 <a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> |[![arknDEV](https://github.com/arknDEV.png?size=100)](https://github.com/arknDEV)
 ----|----|----|----|----|----|----
-[Whiskeysockets](https://github.com/whiskeysockets) |
+[Whiskeysockets](https://github.com/whiskeysockets) |[arknDEV](https://github.com/arknDEV)
 Owner of Baileys | Owner of Momoi
