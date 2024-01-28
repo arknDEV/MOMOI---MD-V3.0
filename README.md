@@ -44,7 +44,8 @@
 - ✔️ | AI
 ---------
 
-## THANKS TO
-[Whiskeysockets](https://github.com/whiskeysockets)
+# Thanks to
+<a href="https://github.com/whiskeysockets"><img src="https://github.com/whiskeysockets.png?size=100" width="100" height="100"></a> |
 ----|----|----|----|----|----|----
-Owner of Baileys | 
+[Whiskeysockets](https://github.com/whiskeysockets) |
+Owner of Baileys
